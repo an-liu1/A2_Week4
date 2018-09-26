@@ -1,0 +1,31 @@
+.Layer_3 {
+  background-image: url("Layer 3.png");
+  position: absolute;
+  left: 32px;
+  top: 18px;
+  width: 76px;
+  height: 80px;
+  z-index: 705; }
+
+.Admin {
+  font-size: 13px;
+  font-family: "Lato";
+  color: white;
+  line-height: 1.385;
+  text-align: left;
+  position: absolute;
+  left: 117.937px;
+  top: 46.998px;
+  z-index: 703; }
+
+Background colour
+.user_backing {
+  background-color: #690800;
+  position: absolute;
+  left: 0px;
+  top: -4px;
+  width: 256px;
+  height: 110px;
+  z-index: 702; }
+
+/*# sourceMappingURL=main.css.map */
