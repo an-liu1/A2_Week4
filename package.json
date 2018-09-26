@@ -1,0 +1,27 @@
+{
+  "name": "a2_week4",
+  "version": "1.0.0",
+  "description": "in-class rebuild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-liu1/A2_Week4.git"
+  },
+  "keywords": [
+    "\"in-class",
+    "rebuild\""
+  ],
+  "author": "An_L & Chaochao_L",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/an-liu1/A2_Week4/issues"
+  },
+  "homepage": "https://github.com/an-liu1/A2_Week4#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
