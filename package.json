@@ -1,0 +1,23 @@
+{
+  "name": "a2_week4",
+  "version": "1.0.0",
+  "description": "Describe team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-liu1/A2_Week4.git"
+  },
+  "author": "An Liu & Chaochao Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/an-liu1/A2_Week4/issues"
+  },
+  "homepage": "https://github.com/an-liu1/A2_Week4#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
