@@ -32,25 +32,25 @@ In order to make the project operate well, there is some software necessarily:
 ## Deployment
 
 * npm init --- create a package.json file
-[npm initial](https://github.com/an-liu1/A2_Week4//master/images/npm_initial.png)
+[npm initial](https://github.com/an-liu1/A2_Week4/tree/master/images/npm_initial.png)
 
 * gulp install --- manage dependencies
-[gulp initial](https://github.com/an-liu1/A2_Week4//master/images/gulp_install.png)
+[gulp initial](https://github.com/an-liu1/A2_Week4/tree/master/images/gulp_install.png)
 
 * gulp-sass install --- produce CSS code automatically
-[gulp-sass initial](https://github.com/an-liu1/A2_Week4/master/images/gulp-sass.png)
+[gulp-sass initial](https://github.com/an-liu1/A2_Week4/tree/master/images/gulp-sass.png)
 
 * gulpfile --- install plugins
-[gulpfile](https://github.com/an-liu1/A2_Week4/master/images/gulpfile.png)
+[gulpfile](https://github.com/an-liu1/A2_Week4/tree/master/images/gulpfile.png)
 
 ## BUilt With
 * Foundation - The web framework used
 
 ## Versioning
-*0.1.0 Working in progress
-*0.1.1 Deleting useless files
-*0.2.0 Change: update code and images
-*0.3.3 Change: update README.md
+* 0.1.0 Working in progress
+* 0.1.1 Deleting useless files
+* 0.2.0 Change: update code and images
+* 0.3.3 Change: update README.md
 
 ## Authors 
 * An Liu --- Developer
