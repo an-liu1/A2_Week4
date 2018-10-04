@@ -1,0 +1,45 @@
+#mainHeader
+{
+  
+    background-color: $mainHeader-bgcolor;
+    // height: 7em;
+    width: $body-max-width;
+
+}
+#title_logo
+{
+    height: $logo-height;
+    width: $logo-width;
+    margin-top: 1.25em;
+    margin-left: 1.875em;
+
+
+}
+#main-nav
+{
+    margin-top: 2.5em;
+}
+
+
+#main-nav a{
+    font-size: $nav-font-size;
+    font-family: $nav-font-family;
+    color: $nav-font-color;
+    font-weight: $main-font-weight;
+    line-height: 1.667;
+    display: inline;
+  
+    opacity:1;
+}
+    
+ 
+  
+  #main-nav a:hover
+  {
+    -moz-box-shadow: -1px 6px 4px #000000;
+    -webkit-box-shadow: -1px 6px 4px #000000;
+    box-shadow: -1px 6px 4px #000000;
+    opacity:0.7;
+    background:$nav-hover;
+ 
+  }
