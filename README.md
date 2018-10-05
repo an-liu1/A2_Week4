@@ -27,21 +27,21 @@ In order to make the project operate well, there is some software necessarily:
 1. open google and search --- Visual Studio Code
 2. click the first link [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 3. download
-[VSCdownload](https://github.com/an-liu1/A2_Week4/master/images/VSCdownload.png)
+![VSCdownload](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/VSCdownload.png)
 
 ## Deployment
 
 * npm init --- create a package.json file
-[npm initial](https://github.com/an-liu1/A2_Week4//master/images/npm_initial.png)
+![npm initial](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/npm_initial.png)
 
 * gulp install --- manage dependencies
-[gulp initial](https://github.com/an-liu1/A2_Week4//master/images/gulp_install.png)
+![gulp initial](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/gulp_install.png)
 
 * gulp-sass install --- produce CSS code automatically
-[gulp-sass initial](https://github.com/an-liu1/A2_Week4/master/images/gulp-sass.png)
+![gulp-sass initial](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/gulp-sass.png)
 
 * gulpfile --- install plugins
-[gulpfile](https://github.com/an-liu1/A2_Week4/master/images/gulpfile.png)
+![gulpfile](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/gulpfile.png)
 
 ## BUilt With
 * Foundation - The web framework used
