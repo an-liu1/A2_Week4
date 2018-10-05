@@ -1,7 +1,7 @@
 {
   "name": "a2_week4",
   "version": "1.0.0",
-  "description": "in-class rebuild",
+  "description": "Describe team",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,18 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/an-liu1/A2_Week4.git"
   },
-  "keywords": [
-    "\"in-class",
-    "rebuild\""
-  ],
-  "author": "An_L & Chaochao_L",
+  "author": "An Liu & Chaochao Li",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/an-liu1/A2_Week4/issues"
   },
   "homepage": "https://github.com/an-liu1/A2_Week4#readme",
   "devDependencies": {
+    "browser-sync": "^2.24.7",
     "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
     "gulp-sass": "^4.0.1"
   }
 }

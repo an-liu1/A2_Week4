@@ -1,0 +1,178 @@
+#content_1-2
+  {
+      
+      background-color:  $content-1-2-bgcolor;
+      width: $body-max-width;
+  height: $content-1-2-height;
+
+  }
+  
+  #content-1
+  {
+    
+      text-align: center;
+ 
+      width:  $conent-1-width;
+      height:  $content-1-height;
+    
+  }
+  #content-image-1
+  {
+    margin-top: 1.25em;
+    margin-left: 1.5625em;
+    width:  $conent-1-width;
+    height:  $content-1-height;
+  }
+  #content-1-text
+  {
+      position: absolute;
+    
+      font-family: $nav-font-family;
+      color: $content-1-text-color;
+      line-height: 1.25;
+     }
+     #name_1
+     {
+         position: relative;
+         margin-top: -360px;
+         margin-left: -50px;
+     }
+     #position_1
+     {  
+         position: absolute;
+         margin-top: -43px;
+         margin-left: 300px;
+     }
+     #text_1
+     {
+        // position: absolute;
+        margin-top: 180px;
+        margin-left: 100px;
+
+     }
+
+
+#content-2
+{
+    margin-top: 21px;
+    margin-right: -20px;
+      
+}
+
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color:#5f5f5f;
+  }
+.lightbox > img {
+    margin-left: 25%;
+}
+.lightbox1 {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color:#5f5f5f;
+  }
+.lightbox1 > img {
+    margin-left: 20%;
+    margin-top: -10%;
+    transform: scale(0.7);
+}
+.close_lightbox {
+    position: absolute;
+	right: 12px;
+	top: 12px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	color: white;
+	cursor: pointer;
+  }
+    
+  
+  #content-2-text
+  {
+      position: absolute;
+      font-size: $nav-font-size;
+      font-family: $nav-font-family;
+      color: $content-2-text-color;
+      line-height: 1.25;
+  }
+
+  #name_2
+  {
+      position: relative;
+      margin-top: -329px;
+      margin-left: 90px;
+  }
+  #position_2
+  {  
+      position: absolute;
+      margin-top: -43px;
+      margin-left: 300px;
+  }
+  #text_2
+  {
+     // position: absolute;
+     margin-top: 180px;
+     margin-left:90px;
+
+  }
+  #content-3-4
+  {
+      height: 680px;
+      background-color:  $content-3-4-bgcolor;
+  }
+  #content-title h3
+  {
+    font-size: 40px;
+    font-family: $nav-font-family;
+    color: $nav-font-color;
+    font-weight: $main-font-weight;
+    line-height: 0.525;
+    text-align: center;
+    margin-top: 30px;
+  
+  }
+  #content-3-image
+  {
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  #content-4-image
+  {
+    margin-top: 30px;
+    cursor: pointer;
+  }
+
+  #content-3-text{
+    font-size: 2em;
+    margin: 0 auto;
+    margin-top: -5%;
+    width: 50%;
+    font-family:  $content-3-4-text-ffamily;
+    color:  $content-3-4-text-color;
+    line-height: 1.5;
+  }
+  #content-4-text{
+    font-size: 2em;
+    margin-top: 10%;
+    margin: 0 auto;
+    width: 50%;
+    font-family:  $content-3-4-text-ffamily;
+    color:  $content-3-4-text-color;
+    line-height: 1.5;
+  }

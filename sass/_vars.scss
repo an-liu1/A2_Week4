@@ -1,11 +1,33 @@
 //designer please put your stuff here -> globals (color, fonts, etc)
-$sidebar-bgcolor: #505050;
-$sidebar-font-color: white;
-$footer-color: #444444;
+$mainHeader-bgcolor:#6bd6bc;
+$body-max-width: 75em;
 
-//header vars
-$header-bg-color:white;
-$header-font-color: red;
-//footer vars
-$footer-bg-color:#333;
-$footer-text-color:#fff;
+
+
+// header
+$logo-height:5em;
+$logo-width:21.875em;
+$nav-font-size:1.5em;//24px
+$nav-font-family:"Microsoft YaHei UI";
+$main-font-weight:bold;
+$nav-font-color:rgb(183, 104, 224);
+$nav-hover:rgb(124, 173, 206);
+
+//content
+ $content-1-2-bgcolor:rgb(105, 222, 193);
+ $content-1-2-height:26.875em;
+ $conent-1-width:35em;
+ $content-1-height:26.25em;
+ $content-1-text-color:#6a6d71;
+ $content-2-text-color:rgb(242, 235, 218);
+ $content-3-4-bgcolor:#73e3c2;
+ $content-3-4-text-ffamily:"Times New Roman";
+ $content-3-4-text-color:rgb(223, 60, 198);
+
+
+ //footer
+ $footer-bgcolor:#68dec1;
+ $footer-height:10em;
+$footer-loction-color:#6b1398;
+$copyright-bgcolor: #38e2b8;
+
