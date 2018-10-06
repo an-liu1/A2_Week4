@@ -34,11 +34,11 @@ In order to make the project operate well, there is some software necessarily:
 . git clone git@github.com:an-liu1/A2_Week4.git
 
 2. Install requirements packages within the repo
-. cd A2_Week4
-  npm i -D glup
-  npm i -D gulp-sass
-  npm install --save-dev gulp-imagemin
-  npm install --save-dev browser-sync
+* cd A2_Week4
+* npm i -D glup
+* npm i -D gulp-sass
+* npm install --save-dev gulp-imagemin
+* npm install --save-dev browser-sync
 
 ### Deployment
 
