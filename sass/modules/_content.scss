@@ -1,28 +1,5 @@
-#content_1-2
-  {
-      
-      background-color:  $content-1-2-bgcolor;
-      width: $body-max-width;
-  height: $content-1-2-height;
 
-  }
-  
-  #content-1
-  {
-    
-      text-align: center;
- 
-      width:  $conent-1-width;
-      height:  $content-1-height;
-    
-  }
-  #content-image-1
-  {
-    margin-top: 1.25em;
-    margin-left: 1.5625em;
-    width:  $conent-1-width;
-    height:  $content-1-height;
-  }
+
   #content-1-text
   {
       position: absolute;
@@ -34,20 +11,20 @@
      #name_1
      {
          position: relative;
-         margin-top: -360px;
-         margin-left: -50px;
+         margin-top: -400px;
+         margin-left: 40px;
      }
      #position_1
      {  
          position: absolute;
-         margin-top: -43px;
-         margin-left: 300px;
+         margin-top: 1px;
+         margin-left: 40px;
      }
      #text_1
      {
         // position: absolute;
-        margin-top: 180px;
-        margin-left: 100px;
+        margin-top: 50px;
+        margin-left: 40px;
 
      }
 
@@ -115,47 +92,60 @@
   #name_2
   {
       position: relative;
-      margin-top: -329px;
+      margin-top: -380px;
       margin-left: 90px;
   }
   #position_2
   {  
       position: absolute;
       margin-top: -43px;
-      margin-left: 300px;
+      margin-left: 350px;
   }
   #text_2
   {
-     // position: absolute;
-     margin-top: 180px;
-     margin-left:90px;
+     position: absolute;
+     margin-top:330px;
+     margin-left:50%;
+     width: 600px;
 
   }
   #content-3-4
   {
-      height: 680px;
+      height: 500px;
       background-color:  $content-3-4-bgcolor;
   }
-  #content-title h3
+  #content-3
   {
-    font-size: 40px;
-    font-family: $nav-font-family;
-    color: $nav-font-color;
-    font-weight: $main-font-weight;
-    line-height: 0.525;
-    text-align: center;
-    margin-top: 30px;
+      height: 507px;
+      width: 600px;
+      background-color: #68b4c4;
   
+  }
+  #content-4
+  {
+      height: 507px;
+      width: 600px;
+      background-color: #22bdb7;
+     
+  }
+  #content-2-image:hover {
+    transform: scale(1.02);
   }
   #content-3-image
   {
     margin-top: 30px;
     cursor: pointer;
+    &:hover {
+        transform: scale(1.1);
+    }
   }
   #content-4-image
   {
     margin-top: 30px;
     cursor: pointer;
+    &:hover {
+        transform: scale(1.1);
+    }
   }
 
   #content-3-text{

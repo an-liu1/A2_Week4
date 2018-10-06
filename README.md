@@ -29,7 +29,20 @@ In order to make the project operate well, there is some software necessarily:
 3. download
 ![VSCdownload](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/VSCdownload.png)
 
-## Deployment
+## Installing
+
+1. Clone the repo
+git clone https://github.com/an-liu1/A2_Week4.git
+
+2. Install requirements packages within the repo
+cd A2_Week4
+npm i -D gulp
+npm i -D gulp-sass
+npm install --save-dev gulp-imagemin
+npm install --save-dev browser-sync
+
+
+### Deployment
 
 * npm init --- create a package.json file
 ![npm initial](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/npm_initial.png)
@@ -40,17 +53,23 @@ In order to make the project operate well, there is some software necessarily:
 * gulp-sass install --- produce CSS code automatically
 ![gulp-sass initial](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/gulp-sass.png)
 
+* gulp-imagemin install --- Minify PNG, JPEG, GIF and SVG images with imagemin
+![gulp-imagemin install](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/gulp-imagemin.png)
+
+* browser-sync install --- visit browsersync.io for a full run-down of features
+[browser-sync install](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/browser-sync.png)
+
 * gulpfile --- install plugins
 ![gulpfile](https://raw.githubusercontent.com/an-liu1/A2_Week4/master/images/gulpfile.png)
 
-## BUilt With
+## Built With
 * Foundation - The web framework used
 
 ## Versioning
-*0.1.0 Working in progress
-*0.1.1 Deleting useless files
-*0.2.0 Change: update code and images
-*0.3.3 Change: update README.md
+* 0.1.0 Working in progress
+* 0.1.1 Deleting useless files
+* 0.2.0 Change: update code and images
+* 0.3.3 Change: update README.md
 
 ## Authors 
 * An Liu --- Developer
@@ -60,3 +79,8 @@ In order to make the project operate well, there is some software necessarily:
 
 MIT License
 
+## Future Plan
+The project will continue to update throght this semester
+1. Adding more functions
+2. Adding more gulp plugins
+3. Modifying designing 
